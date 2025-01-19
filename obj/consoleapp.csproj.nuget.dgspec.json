@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\WEB TASARIM\\Website\\BackEnd\\consoleapp\\consoleapp.csproj": {}
+  },
+  "projects": {
+    "F:\\WEB TASARIM\\Website\\BackEnd\\consoleapp\\consoleapp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\WEB TASARIM\\Website\\BackEnd\\consoleapp\\consoleapp.csproj",
+        "projectName": "consoleapp",
+        "projectPath": "F:\\WEB TASARIM\\Website\\BackEnd\\consoleapp\\consoleapp.csproj",
+        "packagesPath": "C:\\Users\\ihsan\\.nuget\\packages\\",
+        "outputPath": "F:\\WEB TASARIM\\Website\\BackEnd\\consoleapp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ihsan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

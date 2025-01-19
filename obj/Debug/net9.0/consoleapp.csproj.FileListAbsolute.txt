@@ -1,0 +1,14 @@
+F:\WEB TASARIM\Website\BackEnd\consoleapp\bin\Debug\net9.0\consoleapp.exe
+F:\WEB TASARIM\Website\BackEnd\consoleapp\bin\Debug\net9.0\consoleapp.deps.json
+F:\WEB TASARIM\Website\BackEnd\consoleapp\bin\Debug\net9.0\consoleapp.runtimeconfig.json
+F:\WEB TASARIM\Website\BackEnd\consoleapp\bin\Debug\net9.0\consoleapp.dll
+F:\WEB TASARIM\Website\BackEnd\consoleapp\bin\Debug\net9.0\consoleapp.pdb
+F:\WEB TASARIM\Website\BackEnd\consoleapp\obj\Debug\net9.0\consoleapp.GeneratedMSBuildEditorConfig.editorconfig
+F:\WEB TASARIM\Website\BackEnd\consoleapp\obj\Debug\net9.0\consoleapp.AssemblyInfoInputs.cache
+F:\WEB TASARIM\Website\BackEnd\consoleapp\obj\Debug\net9.0\consoleapp.AssemblyInfo.cs
+F:\WEB TASARIM\Website\BackEnd\consoleapp\obj\Debug\net9.0\consoleapp.csproj.CoreCompileInputs.cache
+F:\WEB TASARIM\Website\BackEnd\consoleapp\obj\Debug\net9.0\consoleapp.dll
+F:\WEB TASARIM\Website\BackEnd\consoleapp\obj\Debug\net9.0\refint\consoleapp.dll
+F:\WEB TASARIM\Website\BackEnd\consoleapp\obj\Debug\net9.0\consoleapp.pdb
+F:\WEB TASARIM\Website\BackEnd\consoleapp\obj\Debug\net9.0\consoleapp.genruntimeconfig.cache
+F:\WEB TASARIM\Website\BackEnd\consoleapp\obj\Debug\net9.0\ref\consoleapp.dll
