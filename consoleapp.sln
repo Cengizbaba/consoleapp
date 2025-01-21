@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.5.002.0
+VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "consoleapp", "consoleapp.csproj", "{286A14A2-FA83-494A-A0A9-F54A1529BBEF}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryApp", "RepositoryApp\RepositoryApp.csproj", "{9BB97CB5-7436-418B-A80C-AA9C93317CA1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +15,6 @@ Global
 		{286A14A2-FA83-494A-A0A9-F54A1529BBEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{286A14A2-FA83-494A-A0A9-F54A1529BBEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{286A14A2-FA83-494A-A0A9-F54A1529BBEF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9BB97CB5-7436-418B-A80C-AA9C93317CA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9BB97CB5-7436-418B-A80C-AA9C93317CA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9BB97CB5-7436-418B-A80C-AA9C93317CA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9BB97CB5-7436-418B-A80C-AA9C93317CA1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
